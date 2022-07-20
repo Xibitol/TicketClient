@@ -8,11 +8,11 @@ _Not this time_
 ## Roadmap
 - [ ] Create database and tables
 ### Images API
-- [ ] Apache virtual host and main rules
-- [ ] Core
-- [ ] Simple authentication
-- [ ] Images
-- [ ] Signature
+- [x] Apache virtual host and main rules
+- [x] Core
+- [x] Simple authentication
+- [x] Images
+- [x] Signature
 ### Application
 - Design
     - [ ] Colors
