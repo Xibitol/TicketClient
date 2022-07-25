@@ -15,9 +15,10 @@ _Not this time_
 - [x] Signature
 ### Application
 - Design
-    - [ ] Colors
-    - [ ] Fonts
-    - [ ] UI
+    - [x] Colours
+    - [x] Fonts
+    - [x] Components
+    - [x] UI
 - Development
 
 ## Setup
